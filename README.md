@@ -31,6 +31,11 @@ These materials can create a surprising number of digital logic outcomes. In spe
 
 We'll learn how to combine these in future weeks to create even more discering logic, but for now we'll start with some basics.
 
+During this activity, we'll also use a tool called `TinkerCAD` to mock up circuits _before_ we build them in order to make sure that
+we're planning out circuits to avoid overloading parts. To join the classroom for `TinkerCAD`:
+
+* https://www.tinkercad.com/joinclass/YCRGKSAJQ
+
 ## Instructions
 
 You must complete and demonstrate each of these circuits to either an instructor or TL using your breadboard and associated parts. This 
