@@ -62,5 +62,3 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 > to do anything useful or meaningful? If so, what could we do with these bits of logic? Can we make anything more complex?
 
 `TODO`
-
-> 
