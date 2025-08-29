@@ -21,8 +21,7 @@ jobs:
     - name: Set up grading environment
       run: |
         sudo apt-get update
-        sudo apt-get install python3-venv
-        sudo python -m venv .venv
+        python -m venv .venv
         source .venv/bin/activate
         python -m pip install --upgrade pip
         python -m pip install gatorgrade --ignore-installed PyYAML --break-system-packages
