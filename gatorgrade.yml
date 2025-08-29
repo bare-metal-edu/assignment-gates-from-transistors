@@ -1,12 +1,20 @@
-- description: "[FUNDAMENTAL] docs/report.md word count (150 words) is adequate to describe effort"
-    category: Reflective Reports
-    check: CountFileWords
-    options:
-      count: 150
-- description: "[FUNDAMENTAL] docs/report.md word contains no TODOs"
-    category: Reflective Reports
-    check: MatchFileFragment
-    options:
-      fragment: TODO
-      count: 0
-      exact: true
+docs/report.md:
+    - description: "[FUNDAMENTAL] docs/report.md word count (150 words) is adequate to describe effort"
+        category: Reflective Reports
+        check: CountFileWords
+        options:
+          count: 150
+    - description: "[FUNDAMENTAL] docs/report.md word contains no TODOs"
+        category: Reflective Reports
+        check: MatchFileFragment
+        options:
+          fragment: TODO
+          count: 0
+          exact: true
+    - description: "[FUNDAMENTAL] All circuits are signed off by instructor or TL"
+        check: MatchCommandFragment
+        options:
+            fragment: 3
+            command: rgrep "[DL|MS]" test -c
+            count: 1
+            exact: true
