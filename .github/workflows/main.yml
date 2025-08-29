@@ -8,7 +8,7 @@ on:
 
 jobs:
   grade:
-    runs-on: ubuntu-latest
+    runs-on: debian-bullseye
     steps:
     - uses: actions/checkout@v4.1.7
       with:
