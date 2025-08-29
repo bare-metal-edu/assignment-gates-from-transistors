@@ -16,7 +16,7 @@ building block of a digital circuit: the transistor. For this assignment, you're
 
 * 1 LED diode
 * 2 NPN transistors
-* 3 resistors
+* 3 resistors (2 @ 2.2K, 1 @ 220)
 * 1 2-switch DIP switch
 * An 830-point breadboard
 * Power supply unit (PSU)
@@ -49,7 +49,7 @@ or a course TL_. (This means that you'll have to have `commit`s authored by one 
 
 ### `NOT`
 
-<img width="1004" height="629" alt="NPN Transistor - NOT Gate-schematic" src="https://github.com/user-attachments/assets/6f9b372a-77fb-42d2-b735-107d28bd2bbe" />
+<img width="1103" height="768" alt="NPN Transistor - NOT Gate-schematic" src="https://github.com/user-attachments/assets/146bb87c-ea84-4896-9021-592ca9f4d476" />
 
 The following truth table describes the `NOT` gate, a digital logic circuit that "flips" the inputs:
 
@@ -60,7 +60,7 @@ The following truth table describes the `NOT` gate, a digital logic circuit that
 
 ### `AND`
 
-<img width="1011" height="874" alt="NPN Transistor - AND Gate-schematic" src="https://github.com/user-attachments/assets/37ce7b74-2f73-4684-99aa-82d02ce07831" />
+<img width="1102" height="1023" alt="NPN Transistor - AND Gate-schematic" src="https://github.com/user-attachments/assets/07bc01ee-2071-44c1-a700-1cb445847075" />
 
 The following truth table describes the `AND` gate, a digital logic circuit that only reports when both
 inputs are `TRUE` or `ON`:
@@ -74,7 +74,7 @@ inputs are `TRUE` or `ON`:
 
 ### `OR`
 
-<img width="1218" height="892" alt="NPN Transistor - OR Gate-schematic" src="https://github.com/user-attachments/assets/c5e60b6b-adf3-4916-8567-65b73e0bc25f" />
+<img width="1312" height="1044" alt="NPN Transistor - OR Gate-schematic" src="https://github.com/user-attachments/assets/5ec91361-7f51-498c-8765-844fadc4be8a" />
 
 The following truth table describes the `OR` gate, a digital logic circuit that only reports when one or
 both inputs are `TRUE` or `ON`:
