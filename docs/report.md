@@ -9,44 +9,44 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 
 * Link: `TODO`
 
-| Verified by | Date |
-|:------------|:-----|
-|`TODO`|`TODO`|
-
 | A | Out |
 |:--|:----|
 |`TODO`|`TODO`|
+|`TODO`|`TODO`|
+
+| Verified by | Date |
+|:------------|:-----|
 |`TODO`|`TODO`|
 
 ### AND
 
 * Link: `TODO`
 
-| Verified by | Date |
-|:------------|:-----|
-|`TODO`|`TODO`|
-
 | A | B | Out |
 |:--|:--|:----|
 |`TODO`|`TODO`|`TODO`|
 |`TODO`|`TODO`|`TODO`|
 |`TODO`|`TODO`|`TODO`|
 |`TODO`|`TODO`|`TODO`|
+
+| Verified by | Date |
+|:------------|:-----|
+|`TODO`|`TODO`|
 
 ### OR
 
 * Link: `TODO`
 
-| Verified by | Date |
-|:------------|:-----|
-|`TODO`|`TODO`|
-
 | A | B | Out |
 |:--|:--|:----|
 |`TODO`|`TODO`|`TODO`|
 |`TODO`|`TODO`|`TODO`|
 |`TODO`|`TODO`|`TODO`|
 |`TODO`|`TODO`|`TODO`|
+
+| Verified by | Date |
+|:------------|:-----|
+|`TODO`|`TODO`|
 
 ## Speculation
 
