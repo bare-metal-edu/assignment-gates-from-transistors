@@ -23,9 +23,9 @@ jobs:
         sudo apt-get update
         sudo apt-get install python3-venv
         sudo python -m venv .venv
-        sudo source .venv/bin/activate
-        sudo python -m pip install --upgrade pip
-        sudo python -m pip install gatorgrade --ignore-installed PyYAML --break-system-packages
+        source .venv/bin/activate
+        python -m pip install --upgrade pip
+        python -m pip install gatorgrade --ignore-installed PyYAML --break-system-packages
     - name: Grade repository
       run: |
         gatorgrade --config gatorgrade.yml --report file json gatorgrade_summary.json
