@@ -34,7 +34,7 @@ We'll learn how to combine these in future weeks to create even more discering l
 During this activity, we'll also use a tool called `TinkerCAD` to mock up circuits _before_ we build them in order to make sure that
 we're planning out circuits to avoid overloading parts. To join the classroom for `TinkerCAD`:
 
-* https://www.tinkercad.com/joinclass/YCRGKSAJQ
+* [Join TinkerCAD class](https://www.tinkercad.com/joinclass/YCRGKSAJQ)
 
 ## Instructions
 
