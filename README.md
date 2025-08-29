@@ -53,8 +53,9 @@ Let's take it a bit further. We've already looked at `NOT`, but did you know tha
 `NAND` and the `NOR`? Below, you'll find the truth tables that represent the desired outcome of each of these circuits which you'll need
 to replicate in order to solve this `Hack`.
 
-Like the `Fundamental` assignment, you'll need to complete some documentation in the `docs/` folder on the `hack` branch (it's a separate
-file!).
+Like the `Fundamental` assignment, you'll need to complete the `report.md` file in the `docs/` folder on the `hack` branch (it's a separate
+file!). Also, similar to the `Fundamental` branch, you'll need to complete schematics of the circuits in `TinkerCAD` and provide them in the
+`report.md` file.
 
 ### `NAND`
 
