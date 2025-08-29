@@ -68,7 +68,7 @@ Short for `NOT AND`, the `NAND` behaves a bit peculiarly:
 | 1 | 0 | 1   |
 | 1 | 1 | 1   |
 
-### NOR
+### `NOR`
 
 We're interested in _everything but `OR`_ in this case, which means:
 
