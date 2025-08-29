@@ -5,20 +5,7 @@
 Complete the `truth` tables for the three circuits that you completed in this activity. In addition,
 link to each of the schematics you made for the circuits in `TinkerCAD`.
 
-### NOT
-
-* Link: `TODO`
-
-| A | Out |
-|:--|:----|
-|`TODO`|`TODO`|
-|`TODO`|`TODO`|
-
-| Verified by | Date |
-|:------------|:-----|
-|`TODO`|`TODO`|
-
-### AND
+### NOR
 
 * Link: `TODO`
 
@@ -33,7 +20,7 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 |:------------|:-----|
 |`TODO`|`TODO`|
 
-### OR
+### NAND
 
 * Link: `TODO`
 
@@ -50,15 +37,17 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 
 ## Speculation
 
-> As an example, describe the `AND` circuit's functionality. Address:
-> * how current flows when the switches engaged/disengaged
-> * how the transistors enable this functionality
->
-> _Tip:_ It might be helpful to attempt to draw this out; follow the example of the `NOT` gate we made in lab.
+> Describe the functionalities of the `NAND` and `NOR` gates in your own words. How do they differ from the
+> other logic circuits we've built?
 
 `TODO`
 
-> We have some basic building blocks of a digital circuit. Do you have any ideas as to how these can be applied (separately or together)
-> to do anything useful or meaningful? If so, what could we do with these bits of logic? Can we make anything more complex?
+> This part of the lab reused some principles from a specific gate constructed in the `Fundamental branch` of
+> the assignment. Which gate was it? What principles did you use?
+
+`TODO`
+
+> What's the point of doing this work? Does this logic enable us to do anything more than the basic `3` gates
+> constructed in the `Fundamental` branch? If so, what are some examples of how you might use them?
 
 `TODO`
