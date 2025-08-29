@@ -50,8 +50,11 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 
 ## Speculation
 
-> As an example, describe the `AND` circuit's functionality. How do the transistors fit in? What is the purpose of using these
-> components?
+> As an example, describe the `AND` circuit's functionality. Address:
+> * how current flows when the switches engaged/disengaged
+> * how the transistors enable this functionality
+>
+> _Tip:_ It might be helpful to attempt to draw this out; follow the example of the `NOT` gate we made in lab.
 
 `TODO`
 
@@ -59,3 +62,5 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 > to do anything useful or meaningful? If so, what could we do with these bits of logic? Can we make anything more complex?
 
 `TODO`
+
+> 
