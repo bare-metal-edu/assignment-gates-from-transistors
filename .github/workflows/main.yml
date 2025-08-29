@@ -27,6 +27,7 @@ jobs:
         python -m pip install gatorgrade --ignore-installed PyYAML --break-system-packages
     - name: Grade repository
       run: |
+        source .venv/bin/activate
         gatorgrade --config gatorgrade.yml --report file json gatorgrade_summary.json
       if: always()
       env:
