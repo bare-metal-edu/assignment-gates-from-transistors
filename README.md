@@ -5,7 +5,7 @@
 | Date              |           |
 |:------------------|:----------|
 | 30 August 2025   | Assigned  |
-| 4 September 2025  | Due       |
+| 8 September 2025  | Due       |
 | Fundamental            | [![Assignment Progress](../../actions/workflows/main.yml/badge.svg?branch=main)](../../actions/workflows/main.yml) |
 | Hack                   | [![Assignment Progress](../../actions/workflows/hack.yml/badge.svg?branch=hack)](../../actions/workflows/hack.yml) |
 
