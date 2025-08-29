@@ -49,12 +49,18 @@ or a course TL_. (This means that you'll have to have `commit`s authored by one 
 
 ### `NOT`
 
+<img width="1004" height="629" alt="NPN Transistor - NOT Gate-schematic" src="https://github.com/user-attachments/assets/6f9b372a-77fb-42d2-b735-107d28bd2bbe" />
+
+The following truth table describes the `NOT` gate, a digital logic circuit that "flips" the inputs:
+
 | A | Out |
 |:--|:----|
 | 0 | 1   |
 | 1 | 0   |
 
 ### `AND`
+
+<img width="1011" height="874" alt="NPN Transistor - AND Gate-schematic" src="https://github.com/user-attachments/assets/37ce7b74-2f73-4684-99aa-82d02ce07831" />
 
 The following truth table describes the `AND` gate, a digital logic circuit that only reports when both
 inputs are `TRUE` or `ON`:
@@ -67,6 +73,8 @@ inputs are `TRUE` or `ON`:
 | 1 | 1 | 1   |
 
 ### `OR`
+
+<img width="1218" height="892" alt="NPN Transistor - OR Gate-schematic" src="https://github.com/user-attachments/assets/c5e60b6b-adf3-4916-8567-65b73e0bc25f" />
 
 The following truth table describes the `OR` gate, a digital logic circuit that only reports when one or
 both inputs are `TRUE` or `ON`:
