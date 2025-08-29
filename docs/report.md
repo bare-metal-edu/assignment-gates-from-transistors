@@ -63,7 +63,7 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 
 `TODO`
 
-> What do you think happens if you switch out the resistors for `2.2K` and `220` ohm versions (in the correct places)? What actually
+> What do you think happens if you switch out the resistors for `3.3K` and `330` ohm versions (in the correct places)? What actually
 > happens?
 
 `TODO`
