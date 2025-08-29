@@ -47,6 +47,38 @@ in some truth tables, provide some breadboard layouts, and explain how each of t
 a table for the instructor or TL to fill out when circuits are demonstrated. Again, this table _must be filled out by the instructor
 or a course TL_. (This means that you'll have to have `commit`s authored by one of these folks!)
 
+### `NOT`
+
+| A | Out |
+|:--|:----|
+| 0 | 1   |
+| 1 | 0   |
+
+### `AND`
+
+The following truth table describes the `AND` gate, a digital logic circuit that only reports when both
+inputs are `TRUE` or `ON`:
+
+| A | B | Out |
+|:--|:--|:----|
+| 0 | 0 | 0   |
+| 0 | 1 | 0   |
+| 1 | 0 | 0   |
+| 1 | 1 | 1   |
+
+### `OR`
+
+The following truth table describes the `OR` gate, a digital logic circuit that only reports when one or
+both inputs are `TRUE` or `ON`:
+
+| A | B | Out |
+|:--|:--|:----|
+| 0 | 0 | 0   |
+| 0 | 1 | 1   |
+| 1 | 0 | 1   |
+| 1 | 1 | 1   |
+
+
 ## Assignment "Hack"
 
 Let's take it a bit further. We've already looked at `NOT`, but did you know that there are two more circuits that deal in negatives: the
