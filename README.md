@@ -38,7 +38,9 @@ can be done any time during the duration of the assignment until the due date. Y
 can be finished _iteratively_ (that is circuit by circuit over a span of days).
 
 In addition, you must record your findings in the `report.md` file in the `docs/` directory. This documentation will require you to fill
-in some truth tables, provide some breadboard layouts, and explain how each of the circuits work, ostensibly.
+in some truth tables, provide some breadboard layouts, and explain how each of the circuits work, ostensibly. The report also contains
+a table for the instructor or TL to fill out when circuits are demonstrated. Again, this table _must be filled out by the instructor
+or a course TL_. (This means that you'll have to have `commit`s authored by one of these folks!)
 
 ## Assignment "Hack"
 
