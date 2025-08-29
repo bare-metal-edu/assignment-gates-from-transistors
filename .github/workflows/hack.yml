@@ -1,10 +1,10 @@
-name: Fundamentals
+name: Hack
 
 on:
   push:
-    branches: [main]
+    branches: [hack]
   fork:
-    branches: [main]
+    branches: [hack]
 
 jobs:
   grade:
