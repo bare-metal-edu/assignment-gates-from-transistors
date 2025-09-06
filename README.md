@@ -66,7 +66,7 @@ Short for `NOT AND`, the `NAND` behaves a bit peculiarly:
 | 0 | 0 | 1   |
 | 0 | 1 | 1   |
 | 1 | 0 | 1   |
-| 1 | 1 | 1   |
+| 1 | 1 | 0   |
 
 ### `NOR`
 
