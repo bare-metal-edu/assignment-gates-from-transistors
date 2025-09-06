@@ -62,3 +62,8 @@ link to each of the schematics you made for the circuits in `TinkerCAD`.
 > to do anything useful or meaningful? If so, what could we do with these bits of logic? Can we make anything more complex?
 
 `TODO`
+
+> What do you think happens if you switch out the resistors for `3.3K` and `330` ohm versions (in the correct places)? What actually
+> happens?
+
+`TODO`
